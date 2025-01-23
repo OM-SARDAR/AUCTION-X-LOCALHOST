@@ -302,7 +302,7 @@ const SellAnItem = () => {
                 id="biddingStartTime"
                 value={formData.biddingStartTime}
                 onChange={handleChange}
-                min={formData.biddingStartDate === minDate ? minTime : ""}
+                // min={formData.biddingStartDate === minDate ? minTime : ""}
                 required
               />
             </div>
