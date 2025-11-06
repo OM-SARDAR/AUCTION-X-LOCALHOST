@@ -194,8 +194,8 @@ Once both servers are running, open your browser and go to:
 ```
 You can now:
 
--Register or log in with Google or email
--Create, join, and participate in live auctions
--Place bids in real time (powered by Socket.io)
--View and update products dynamically through the API
+-Register or log in with Google or email  
+-Create, join, and participate in live auctions  
+-Place bids in real time (powered by Socket.io)  
+-View and update products dynamically through the API  
 
