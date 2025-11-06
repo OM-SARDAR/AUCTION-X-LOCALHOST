@@ -65,17 +65,17 @@ This project requires the following dependencies:
 
 Build AUCTION-X-LOCALHOST from the source and install dependencies:
 
-## 1. Clone the repository:
+### 1. Clone the repository:
 
 ```
 git clone https://github.com/OM-SARDAR/AUCTION-X-LOCALHOST
 ```
 
-## 2. Go to project folder
+### 2. Go to project folder
 ```
 cd AUCTION-X-LOCALHOST
 ```
-## 3. FOR THE FRONTEND PART :----------------------------
+### 3. FOR THE FRONTEND PART :------------------------------------------------------------------------
 
   A. Go to "client" folder for accessing frontend
   ```
@@ -105,7 +105,7 @@ cd AUCTION-X-LOCALHOST
   npm start
   ```
 
-## 4. FOR THE BACKEND PART :-------------------------------------------------------------------------
+### 4. FOR THE BACKEND PART :------------------------------------------------------------------------
 
   A. Go to "server" folder for accessing backend
   ```
