@@ -66,12 +66,12 @@ It combines a robust backend with interactive frontend components to deliver sea
 
 This project streamlines the development of online auction systems with:
 
-- ✅ **Real-Time Bidding:** Enable live auctions with WebSocket-powered updates.
-- ✅ **User Authentication:** Secure login, profile management, and role-based access control.
-- ✅ **Admin Dashboard:** Visualize revenue, orders, and customer data for efficient management.
-- ✅ **Media Management:** Integrate Cloudinary for smooth image and video handling.
-- ✅ **Secure Notifications:** OTP and email utilities for user verification and communication.
-- ✅ **Modular Architecture:** Clear separation of backend, frontend, utilities, and middleware for scalability.
+- ✓ **Real-Time Bidding:** Enable live auctions with WebSocket-powered updates.
+- ✓ **User Authentication:** Secure login, profile management, and role-based access control.
+- ✓ **Admin Dashboard:** Visualize revenue, orders, and customer data for efficient management.
+- ✓ **Media Management:** Integrate Cloudinary for smooth image and video handling.
+- ✓ **Secure Notifications:** OTP and email utilities for user verification and communication.
+- ✓ **Modular Architecture:** Clear separation of backend, frontend, utilities, and middleware for scalability.
 
 ---
 
@@ -79,10 +79,13 @@ This project streamlines the development of online auction systems with:
 
 ### Prerequisites
 
-This project requires the following dependencies:
+This project requires the following dependencies installed on your system:
 
-- 📦 **Programming Language:** JavaScript  
-- 📦 **Package Manager:** NPM
+- Programming Language: JavaScript (for the main Node.js backend & React frontend)  
+- Package Manager: NPM (for managing Node.js dependencies)  
+- Python 3.8+ (for the AI recommendation service using FastAPI)  
+- Redis (for caching AI recommendations and improving performance)  
+- MongoDB (for storing users, products, bids, and AI data)  
 
 ---
 
