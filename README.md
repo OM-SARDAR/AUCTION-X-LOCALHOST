@@ -93,7 +93,7 @@ Build AUCTION-X-LOCALHOST from the source and install dependencies:
 ### 1. Clone the repository:
 
 ```
-git clone https://github.com/OM-SARDAR/AUCTION-X-LOCALHOST
+git clone https://github.com/OM-SARDAR/AUCTION-X-LOCALHOST.git
 ```
 
 ### 2. Go to project folder
