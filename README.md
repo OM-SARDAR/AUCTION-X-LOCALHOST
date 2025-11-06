@@ -167,6 +167,8 @@ cd AUCTION-X-LOCALHOST
   ```
   npm start
   ```
+---
+
 ## Usage
 To run the project locally, follow these steps:
 
@@ -194,8 +196,43 @@ Once both servers are running, open your browser and go to:
 ```
 You can now:
 
--Register or log in with Google or email  
--Create, join, and participate in live auctions  
--Place bids in real time (powered by Socket.io)  
--View and update products dynamically through the API  
+• Register or log in with Google or email  
+• Create, join, and participate in live auctions  
+• Place bids in real time (powered by Socket.io)  
+• View and update products dynamically through the API  
 
+---
+
+## Testing
+
+Steps:
+
+Start both backend and frontend servers
+```
+cd server
+npm start
+```
+```
+cd client
+npm start
+```
+
+✓ Backend runs on http://localhost:5000
+✓ Frontend runs on http://localhost:3000
+
+Open your browser → go to http://localhost:3000
+
+Create a test account or log in using Google.
+
+Try out the main features:
+
+• Add a product for auction  
+• Join a product’s live auction  
+• Place bids  
+• See if the bids update instantly (real-time using Socket.io)  
+• Check if notifications appear when someone outbids you  
+• Check MongoDB (optional)  
+• Open your MongoDB database  
+• Make sure the new product, bids, and users are being saved correctly  
+
+That’s all for manual testing — it’s about making sure everything feels and works right.
