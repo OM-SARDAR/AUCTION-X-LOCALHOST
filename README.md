@@ -167,3 +167,35 @@ cd AUCTION-X-LOCALHOST
   ```
   npm start
   ```
+## Usage
+To run the project locally, follow these steps:
+
+For Backend (Server)
+  ```
+  cd server
+  npm install
+  npm start
+  ```
+This starts the backend server using Express and Socket.io on the configured port (default: http://localhost:5000).
+
+For Frontend (Client)
+ ```
+ cd client
+ npm install
+ npm start
+ ```
+This runs the React frontend on http://localhost:3000.
+
+Access the App
+
+Once both servers are running, open your browser and go to:
+```
+ http://localhost:3000
+```
+You can now:
+
+-Register or log in with Google or email
+-Create, join, and participate in live auctions
+-Place bids in real time (powered by Socket.io)
+-View and update products dynamically through the API
+
