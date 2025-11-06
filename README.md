@@ -44,18 +44,6 @@ _Transforming Auctions Into Limitless Opportunities_
 ![Nodemailer](https://img.shields.io/badge/Email-Nodemailer-ff69b4)
 
 
-![MongoDB](https://img.shields.io/badge/DB-MongoDB-green)
-![Node](https://img.shields.io/badge/Runtime-Node.js-lightgrey)
-![Express](https://img.shields.io/badge/Framework-Express-yellow)
-![Socket.io](https://img.shields.io/badge/Socket-io-black)
-![JWT](https://img.shields.io/badge/Auth-JWT-orange)
-![Multer](https://img.shields.io/badge/Uploads-Multer-yellow)
-![Cloudinary](https://img.shields.io/badge/Media-Cloudinary-blue)
-![React](https://img.shields.io/badge/UI-React-blue)
-![Redux](https://img.shields.io/badge/State-Redux-purple)
-![Tailwind](https://img.shields.io/badge/CSS-TailwindCSS-blue)
-![Chart.js](https://img.shields.io/badge/Charting-Chart.js-pink)
-
 ---
 
 ## Table of Contents
