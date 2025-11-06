@@ -5,7 +5,44 @@ _Transforming Auctions Into Limitless Opportunities_
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Language](https://img.shields.io/badge/language-JavaScript-blue)
 
-Built with the rocks and technologies:
+## Built with the rocks and technologies:
+
+## Frontend Technologies:
+
+![React](https://img.shields.io/badge/Frontend-React-blue)
+![Redux Toolkit](https://img.shields.io/badge/State-Redux%20Toolkit-purple)
+![React Router](https://img.shields.io/badge/Routing-React%20Router-orange)
+![Axios](https://img.shields.io/badge/API-Axios-lightgrey)
+![Socket.io Client](https://img.shields.io/badge/Realtime-Socket.io-black)
+![Bootstrap](https://img.shields.io/badge/UI-Bootstrap-563d7c)
+![Ant Design](https://img.shields.io/badge/UI-Ant%20Design-1890ff)
+![MDB React UI Kit](https://img.shields.io/badge/UI-MDB%20React%20Kit-teal)
+![Styled Components](https://img.shields.io/badge/Styling-Styled%20Components-pink)
+![Chart.js](https://img.shields.io/badge/Charts-Chart.js-red)
+![SweetAlert2](https://img.shields.io/badge/Alerts-SweetAlert2-ff69b4)
+![React Hot Toast](https://img.shields.io/badge/Notifications-React%20Hot%20Toast-orange)
+![React Icons](https://img.shields.io/badge/Icons-React%20Icons-blue)
+![Font Awesome](https://img.shields.io/badge/Icons-Font%20Awesome-339AF0)
+![React Phone Number Input](https://img.shields.io/badge/Form-Phone%20Input-lightblue)
+![jsPDF](https://img.shields.io/badge/Export-jsPDF-lightgreen)
+![JWT Decode](https://img.shields.io/badge/Auth-JWT%20Decode-yellow)
+![Redux Persist](https://img.shields.io/badge/Persistence-Redux%20Persist-brightgreen)
+
+## Backend Technologies:
+
+![MongoDB](https://img.shields.io/badge/DB-MongoDB-green)
+![Node](https://img.shields.io/badge/Runtime-Node.js-lightgrey)
+![Express](https://img.shields.io/badge/Framework-Express-yellow)
+![Socket.io](https://img.shields.io/badge/Socket-io-black)
+![Mongoose](https://img.shields.io/badge/ODM-Mongoose-blue)
+![JWT](https://img.shields.io/badge/Auth-JWT-orange)
+![Passport](https://img.shields.io/badge/Auth-Passport.js-brightgreen)
+![Cloudinary](https://img.shields.io/badge/Image%20Storage-Cloudinary-lightblue)
+![Dotenv](https://img.shields.io/badge/Config-Dotenv-purple)
+![CORS](https://img.shields.io/badge/Security-CORS-red)
+![Bcrypt](https://img.shields.io/badge/Encryption-Bcrypt-darkblue)
+![Nodemailer](https://img.shields.io/badge/Email-Nodemailer-ff69b4)
+
 
 ![MongoDB](https://img.shields.io/badge/DB-MongoDB-green)
 ![Node](https://img.shields.io/badge/Runtime-Node.js-lightgrey)
