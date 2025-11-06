@@ -2,8 +2,8 @@
 
 _Transforming Auctions Into Limitless Opportunities_
 
-![License](https://img.shields.io/badge/license-MIT-blue)
-![Language](https://img.shields.io/badge/language-JavaScript-blue)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
 
 ## Built with the rocks and technologies:
 
