@@ -120,12 +120,12 @@ cd AUCTION-X-LOCALHOST
   # REACT_APP_RAZORPAY_API_KEY=YOUR_RAZORPAY_API_KEY_HERE
   ```
 
-  C. Install dependencies along with node mofules
+  C. Install dependencies along with node modules
   ```
   npm install
   ```
 
-  D. Start the server side
+  D. Start the client side
   ```
   npm start
   ```
@@ -158,12 +158,12 @@ cd AUCTION-X-LOCALHOST
   # CLOUDINARY_API_KEY=YOUR_CLOUDINARY_API_KEY_HERE
   # CLOUDINARY_API_SECRET=YOUR_CLOUDINARY_API_SECRET
   ```
-  C. Install dependencies along with node mofules
+  C. Install dependencies along with node modules
   ```
   npm install
   ```
 
-  D. Start the client side
+  D. Start the server side
   ```
   npm start
   ```
