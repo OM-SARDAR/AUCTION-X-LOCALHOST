@@ -105,7 +105,7 @@ cd AUCTION-X-LOCALHOST
   npm start
   ```
 
-##4. FOR THE BACKEND PART :----------------------------
+## 4. FOR THE BACKEND PART :----------------------------
 
   A. Go to "server" folder for accessing backend
   ```
