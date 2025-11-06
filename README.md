@@ -77,67 +77,67 @@ cd AUCTION-X-LOCALHOST
 ```
 3. FOR THE FRONTEND PART :----------------------------
 
-A. Go to "client" folder for accessing frontend
-```
-cd client
-```
-B. Create a .env file inside "client" folder
-```
-# Step 1: Create a new .env file
-# (This creates the file if it doesn’t exist)
-touch .env
+  A. Go to "client" folder for accessing frontend
+  ```
+  cd client
+  ```
+  B. Create a .env file inside "client" folder
+  ```
+  # Step 1: Create a new .env file
+  # (This creates the file if it doesn’t exist)
+  touch .env
 
-# Step 2: Open the .env file in your code editor (VS Code example)
-code .env
+  # Step 2: Open the .env file in your code editor (VS Code example)
+  code .env
 
-# Step 3: Add your environment variable inside the file
-# Example:
-# REACT_APP_RAZORPAY_API_KEY=YOUR_RAZORPAY_API_KEY_HERE
-```
+  # Step 3: Add your environment variable inside the file
+  # Example:
+  # REACT_APP_RAZORPAY_API_KEY=YOUR_RAZORPAY_API_KEY_HERE
+  ```
 
-C. Install dependencies along with node mofules
-```
-npm install
-```
+  C. Install dependencies along with node mofules
+  ```
+  npm install
+  ```
 
-D. Start the server side
-```
-npm start
-```
+  D. Start the server side
+  ```
+  npm start
+  ```
 
 4. FOR THE BACKEND PART :----------------------------
-A. Go to "server" folder for accessing backend
-```
-cd server
-```
-B. Create a .env file inside "server" folder
-```
-# Step 1: Create a new .env file
-# (This creates the file if it doesn’t exist)
-touch .env
+  A. Go to "server" folder for accessing backend
+  ```
+  cd server
+  ```
+  B. Create a .env file inside "server" folder
+  ```
+  # Step 1: Create a new .env file
+  # (This creates the file if it doesn’t exist)
+  touch .env
 
-# Step 2: Open the .env file in your code editor (VS Code example)
-code .env
+  # Step 2: Open the .env file in your code editor (VS Code example)
+  code .env
 
-# Step 3: Add your environment variables inside the file
-# Example:
-# JWT_SECRETE=YOUR_JWT_SECRET_HERE
-# PORT=5000
-# MONGODB_URL=mongodb+srv://<YOUR_USERNAME:YOUR_PASSWORD@cluster0.tolhj.mongodb.net/YOUR_SCHEMA_NAME?retryWrites=true&w=majority&appName=Cluster0
-# GOOGLE_CLIENT_ID=YOUR_GOOGLE_CLIENT_ID_HERE
-# GOOGLE_CLIENT_SECRET=YOUR_GOOGLE_CLIENT_SECRET_HERE
-# EMAIL_USER=YOUR_EMAIL_ADDRESS_HERE
-# EMAIL_PASS=YOUR_EMAIL_PASSWORD_HERE
-# CLOUDINARY_CLOUD_NAME=YOUR_CLOUDINARY_CLOUD_NAME_HERE
-# CLOUDINARY_API_KEY=YOUR_CLOUDINARY_API_KEY_HERE
-# CLOUDINARY_API_SECRET=YOUR_CLOUDINARY_API_SECRET
-```
-C. Install dependencies along with node mofules
-```
-npm install
-```
+  # Step 3: Add your environment variables inside the file
+  # Example:
+  # JWT_SECRETE=YOUR_JWT_SECRET_HERE
+  # PORT=5000
+  # MONGODB_URL=mongodb+srv://<YOUR_USERNAME:YOUR_PASSWORD@cluster0.tolhj.mongodb.net/YOUR_SCHEMA_NAME?retryWrites=true&w=majority&appName=Cluster0
+  # GOOGLE_CLIENT_ID=YOUR_GOOGLE_CLIENT_ID_HERE
+  # GOOGLE_CLIENT_SECRET=YOUR_GOOGLE_CLIENT_SECRET_HERE
+  # EMAIL_USER=YOUR_EMAIL_ADDRESS_HERE
+  # EMAIL_PASS=YOUR_EMAIL_PASSWORD_HERE
+  # CLOUDINARY_CLOUD_NAME=YOUR_CLOUDINARY_CLOUD_NAME_HERE
+  # CLOUDINARY_API_KEY=YOUR_CLOUDINARY_API_KEY_HERE
+  # CLOUDINARY_API_SECRET=YOUR_CLOUDINARY_API_SECRET
+  ```
+  C. Install dependencies along with node mofules
+  ```
+  npm install
+  ```
 
-D. Start the client side
-```
-npm start
-```
+  D. Start the client side
+  ```
+  npm start
+  ```
